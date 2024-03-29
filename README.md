@@ -20,11 +20,11 @@ Functions:
 
 How to Use:
 
-    Clone or download the script to your local machine.
-    Import the script into your Python environment.
-    Call any of the provided functions as needed, passing the required inputs.
-    Follow the prompts to input the necessary data.
-    Utilize the returned values as per your requirements.
+Clone or download the script to your local machine.
+Import the script into your Python environment.
+Call any of the provided functions as needed, passing the required inputs.
+Follow the prompts to input the necessary data.
+Utilize the returned values as per your requirements.
 
 Example:
 
@@ -37,6 +37,6 @@ adjective_to_verb()
 
 Note:
 
-    Ensure proper input as per the function requirements to get the desired results.
-    Pay attention to the prompts and messages printed during the execution of functions.
-    This toolkit can be integrated into various projects involving text manipulation, natural language processing, or linguistic analysis to enhance productivity and efficiency.
+Ensure proper input as per the function requirements to get the desired results.
+Pay attention to the prompts and messages printed during the execution of functions.
+This toolkit can be integrated into various projects involving text manipulation, natural language processing, or linguistic analysis to enhance productivity and efficiency.
